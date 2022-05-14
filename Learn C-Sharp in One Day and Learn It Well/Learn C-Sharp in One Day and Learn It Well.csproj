@@ -8,4 +8,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Chapter 3 - The World of Variables and Operators" />
+    </ItemGroup>
+
 </Project>

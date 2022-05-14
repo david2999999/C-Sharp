@@ -2,7 +2,7 @@
 
 public class HelloWorld
 {
-    static void Main(string[] args)
+    public static void Test()
     {
         Console.WriteLine("Hello World");
         Console.Read();
