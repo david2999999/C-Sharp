@@ -1,0 +1,15 @@
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\bin\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.exe
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\bin\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.deps.json
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\bin\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.runtimeconfig.json
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\bin\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.dll
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\bin\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.pdb
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.csproj.AssemblyReference.cache
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.AssemblyInfoInputs.cache
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.AssemblyInfo.cs
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.csproj.CoreCompileInputs.cache
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.dll
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\refint\Learn C-Sharp in One Day and Learn It Well.dll
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.pdb
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\Learn C-Sharp in One Day and Learn It Well.genruntimeconfig.cache
+C:\Users\David Jiang\RiderProjects\C-Sharp\Learn C-Sharp in One Day and Learn It Well\obj\Debug\net6.0\ref\Learn C-Sharp in One Day and Learn It Well.dll

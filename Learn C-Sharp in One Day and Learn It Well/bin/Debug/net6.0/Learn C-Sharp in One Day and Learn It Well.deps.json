@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Learn C-Sharp in One Day and Learn It Well/1.0.0": {
+        "runtime": {
+          "Learn C-Sharp in One Day and Learn It Well.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learn C-Sharp in One Day and Learn It Well/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
