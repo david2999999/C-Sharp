@@ -34,7 +34,5 @@ public class Array
 
         Console.WriteLine(System.Array.IndexOf(source, -2));
         Console.WriteLine(System.Array.IndexOf(source, 100));
-
-        Console.Read();
     }
 }
