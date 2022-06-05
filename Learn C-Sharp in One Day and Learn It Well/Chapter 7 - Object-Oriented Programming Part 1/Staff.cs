@@ -6,6 +6,20 @@ public class Staff
     private const int hourlyRate = 30;
     private int hWorked;
     
+    public Staff(string name)
+    {
+        nameOfStaff = name;
+        Console.WriteLine("\n" + nameOfStaff);
+        Console.WriteLine("--------------------------");
+    }
+    
+    public Staff(string firstName, string lastName)
+    {
+        nameOfStaff = firstName + " " + lastName;
+        Console.WriteLine("\n" + nameOfStaff);
+        Console.WriteLine("--------------------------");
+    }
+    
     public int HoursWorked
     {
         get
@@ -47,5 +61,11 @@ public class Staff
     public void PrintMessage()
     {
         Console.WriteLine("Calculating Pay…");
+    }
+    
+    public override string ToString()
+    {
+        return "Name of Staff = " + nameOfStaff + ", hourlyRate = " +
+            hourlyRate + ", hWorked = " + hWorked;
     }
 }
