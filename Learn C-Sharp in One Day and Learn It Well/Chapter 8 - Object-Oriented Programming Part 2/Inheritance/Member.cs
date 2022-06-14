@@ -20,6 +20,11 @@ public class Member
         memberSince = pMemberSince;
     }
 
+	public virtual void CalculateAnnualFee()
+	{
+		annualFee = 0;
+	}
+
     public override string ToString()
     {
         return "\nName: " + name + "\nMember ID: " + memberID +

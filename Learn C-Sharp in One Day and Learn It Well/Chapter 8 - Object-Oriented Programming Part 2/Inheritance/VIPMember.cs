@@ -8,8 +8,8 @@ public class VIPMember : Member
         Console.WriteLine("Child Constructor with 3 parameters");
     }
     
-    public void CalculateAnnualFee()
-    {
-        annualFee = 1200;
-    }
+	public override void CalculateAnnualFee()
+	{
+		annualFee = 1200;
+	}
 }

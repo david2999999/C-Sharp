@@ -18,4 +18,9 @@ public class NormalMember : Member
     {
         Console.WriteLine("Child constructor with no parameter");
     }
+
+	public override void CalculateAnnualFee()
+	{
+		annualFee = 100 + 12 * 30;
+	}
 }
