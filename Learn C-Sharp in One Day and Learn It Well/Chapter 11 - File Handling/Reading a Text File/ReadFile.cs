@@ -34,4 +34,22 @@ public class ReadFile
 			Console.WriteLine(e.Message);
 		}
 	}
+
+	public void readFile2()
+	{
+		if (File.Exists(path))
+		{
+			using (StreamReader sr = new StreamReader(path))
+			{
+				while (!sr.EndOfStream)
+				{
+					Console.WriteLine(sr.ReadLine());
+				}
+				sr.Close();
+			}
+		} else
+		{
+			//Do something else
+		}
+	}
 }
